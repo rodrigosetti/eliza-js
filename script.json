@@ -1,4 +1,4 @@
-var eliza_script = {
+{
   "initial": "How do you do.  Please tell me your problem.",
   "final": "Goodbye.  Thank you for talking to me.",
   "quit": [
@@ -641,4 +641,3 @@ var eliza_script = {
   ]
 }
 
-module.exports = script;
